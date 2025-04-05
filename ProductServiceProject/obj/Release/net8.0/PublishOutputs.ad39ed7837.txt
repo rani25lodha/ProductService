@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\ProductService.exe
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\appsettings.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\ProductService.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\ProductService.deps.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\ProductService.runtimeconfig.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\ProductService.pdb
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

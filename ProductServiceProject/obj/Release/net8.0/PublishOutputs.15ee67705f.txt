@@ -1,0 +1,11 @@
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\ProductService.exe
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\ProductService.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\ProductService.deps.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\ProductService.runtimeconfig.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\ProductService.pdb
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

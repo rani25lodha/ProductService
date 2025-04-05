@@ -1,0 +1,72 @@
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\appsettings.Development.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\appsettings.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\ProductService.staticwebassets.endpoints.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\ProductService.exe
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\ProductService.deps.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\ProductService.runtimeconfig.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\ProductService.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\ProductService.pdb
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.csproj.AssemblyReference.cache
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.AssemblyInfoInputs.cache
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.AssemblyInfo.cs
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\scopedcss\bundle\ProductService.styles.css
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets.build.endpoints.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets\msbuild.build.ProductService.props
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductService.props
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ProductService.props
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductS.A0FC5512.Up2Date
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\refint\ProductService.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.pdb
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ProductService.genruntimeconfig.cache
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\ref\ProductService.dll
+C:\Users\vinod\OneDrive\Documents\sandbox\WebApiDemo\ProductService\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\appsettings.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\ProductService.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\ProductService.exe
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\ProductService.deps.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\ProductService.runtimeconfig.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\ProductService.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\ProductService.pdb
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.sourcelink.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\scopedcss\bundle\ProductService.styles.css
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets\msbuild.ProductService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets\msbuild.build.ProductService.props
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductService.props
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ProductService.props
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductS.A0FC5512.Up2Date
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\refint\ProductService.dll
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.pdb
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ProductService.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Capgemini Training\SirRepo\jecrc-march-2025\dotnet\ProductService\obj\Release\net8.0\ref\ProductService.dll
