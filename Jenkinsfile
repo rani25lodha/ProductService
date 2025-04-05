@@ -53,12 +53,12 @@ pipeline {
         }
 
         stage('Deploy to Azure') {
-            steps {
-                bat '''
-                powershell Compress-Archive -Path ProductServiceProject\\publish\\* -DestinationPath publish.zip -Force
-                az webapp deployment source config-zip --resource-group appservice-resource-group --name webapijenkinsrani --src publish.zip
-                '''
-            }
-        }   
+    steps {
+        bat '''
+        powershell Compress-Archive -Path ProductServiceProject\\publish\\* -DestinationPath publish.zip -Force
+        az webapp deploy --resource-group appservice-resource-group --name webapijenkinsrani --src-path publish.zip
+        '''
+    }
+}
     }
 }
