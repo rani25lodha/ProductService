@@ -46,7 +46,7 @@ pipeline {
         }
          stage('Build .NET App') {
             steps {
-                dir('WebApiJenkins') { // Adjust to your .NET project folder
+                dir('ProductServiceProject') { // Adjust to your .NET project folder
                     bat 'dotnet publish -c Release -o publish'
                 }
             }
@@ -55,7 +55,7 @@ pipeline {
         stage('Deploy to Azure') {
             steps {
                 bat '''
-                powershell Compress-Archive -Path WebApiJenkins\\publish\\* -DestinationPath publish.zip -Force
+                powershell Compress-Archive -Path ProductServiceProject\\publish\\* -DestinationPath publish.zip -Force
                 az webapp deployment source config-zip --resource-group appservice-resource-group --name webapijenkinsrani --src publish.zip
                 '''
             }
